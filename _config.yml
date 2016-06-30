@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mijnnaamiswlad.github.io
+title: mijnnaamiswlad
+tagline: make it worth your time
+description: Describing is against nature.
+paginate: 4
