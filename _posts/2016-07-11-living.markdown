@@ -1,6 +1,6 @@
 ---
 published: true
-title: Living
+title: LDR and the crew
 layout: post
 ---
 A small detour for up-to-date events.
